@@ -2,8 +2,8 @@
 
 AI & EdTech researcher at **UCLL University of Applied Sciences** (Belgium) and founder of **[Ailuminated](https://ailuminated.org)**, where I help schools, universities and organisations build AI literacy.
 
-📘 Author of **_The AI Educator Playbook: Reimagining Higher Education with AI_** (Routledge, December 2026) and **_AI in de Aula_** (Borgerhoff & Lamberigts, 2026)
-🎓 I work at the intersection of AI, pedagogy and inclusive education
+📘 Author of **_The AI Educator Playbook: Reimagining Higher Education with AI_** (Routledge, December 2026) and **_AI in de Aula_** (Borgerhoff & Lamberigts, 2026)<br>
+🎓 I work at the intersection of AI, pedagogy and inclusive education<br>
 🌍 Dutch · French · English
 
 ---
@@ -11,7 +11,7 @@ AI & EdTech researcher at **UCLL University of Applied Sciences** (Belgium) and 
 ### 🧰 Claude Skills for Education
 
 Open, free skills that help teachers and trainers use AI with sound pedagogy, and keep the teacher in charge.
-👉 **[Browse the collection](https://github.com/ThomasAiluminated/claude-skills-for-education)** · **[Website](https://thomasailuminated.github.io/claude-skills-for-education/)**
+<br>👉 **[Browse the collection](https://github.com/ThomasAiluminated/claude-skills-for-education)** · **[Website](https://thomasailuminated.github.io/claude-skills-for-education/)**
 
 | | Skill | What it does |
 |---|---|---|
